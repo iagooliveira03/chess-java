@@ -1,6 +1,7 @@
 package boargame;
 
 public class Piece {
+//teste1 
 
 	protected Position position;
 	private Board board;
